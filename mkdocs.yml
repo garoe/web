@@ -19,20 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Garoe Foundation
+site_url: https://garoe.github.io/web/
+site_author: Garoe Team
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  Garoe Foundation - non-profit organization helping people.
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: garoe/web
+repo_url: https://github.com/garoe/web
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2016 - 2022 Garoe Foundation
 
 # Configuration
 theme:
