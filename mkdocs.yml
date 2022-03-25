@@ -158,7 +158,11 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Association: index.md
+  - About: index.md
+  - Team: team.md
+  - Service: services.md
+  - Sponsoring: sponsors.md
+  - Contact: contact.md
 #  - Getting started:
 #    - Installation: getting-started.md
 #    - Creating your site: creating-your-site.md
