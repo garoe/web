@@ -1,4 +1,9 @@
 ---
-template: overrides/home.html
-title: Garoe Foundation
+template: overrides/main.html
+title: Garoe Social Helping Association
 ---
+
+# Garoe Social Helping Association
+
+## Team
+ 
